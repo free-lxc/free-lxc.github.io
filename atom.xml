@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-16T15:47:20.300Z</updated>
+  <updated>2023-06-17T15:35:39.764Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>two</title>
+    <link href="http://example.com/2023/06/17/two/"/>
+    <id>http://example.com/2023/06/17/two/</id>
+    <published>2023-06-17T15:33:45.000Z</published>
+    <updated>2023-06-17T15:35:39.764Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;入行前端许久，近期在找工作，发现js还是最基础也是最重要的，是贯穿一生的。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="心得分享" scheme="http://example.com/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="js" scheme="http://example.com/tags/js/"/>
+    
+  </entry>
   
   <entry>
     <title>one</title>
