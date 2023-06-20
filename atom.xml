@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-17T15:37:47.957Z</updated>
+  <updated>2023-06-20T14:10:53.245Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>two</title>
-    <link href="http://example.com/2023/06/17/two/"/>
-    <id>http://example.com/2023/06/17/two/</id>
-    <published>2023-06-17T15:33:45.000Z</published>
-    <updated>2023-06-17T15:37:47.957Z</updated>
+    <title>为工作全力以赴</title>
+    <link href="http://example.com/2023/06/20/two/"/>
+    <id>http://example.com/2023/06/20/two/</id>
+    <published>2023-06-20T15:33:45.000Z</published>
+    <updated>2023-06-20T14:10:53.245Z</updated>
     
     
       
@@ -29,16 +29,16 @@
         
         
     <summary type="html">&lt;p&gt;入行前端许久，近期在找工作，发现js还是最基础也是最重要的，是贯穿一生的。&lt;/p&gt;
-</summary>
+&lt;h3 id=&quot;接下来需要做的工作&quot;&gt;&lt;a href=&quot;#接下来需要做的工作&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="心得分享" scheme="http://example.com/categories/%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/"/>
+    <category term="实习前传" scheme="http://example.com/categories/%E5%AE%9E%E4%B9%A0%E5%89%8D%E4%BC%A0/"/>
     
     
-    <category term="js" scheme="http://example.com/tags/js/"/>
+    <category term="奋斗" scheme="http://example.com/tags/%E5%A5%8B%E6%96%97/"/>
     
   </entry>
   
