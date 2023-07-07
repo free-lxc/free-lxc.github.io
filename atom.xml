@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-07T15:54:53.297Z</updated>
+  <updated>2023-07-07T16:01:34.996Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>js中的api</title>
-    <link href="http://example.com/2023/07/07/js%E4%B8%AD%E7%9A%84api/"/>
-    <id>http://example.com/2023/07/07/js%E4%B8%AD%E7%9A%84api/</id>
+    <link href="http://example.com/2023/07/07/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84api/"/>
+    <id>http://example.com/2023/07/07/%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84api/</id>
     <published>2023-07-07T15:26:42.000Z</published>
-    <updated>2023-07-07T15:54:53.297Z</updated>
+    <updated>2023-07-07T16:01:34.996Z</updated>
     
     
       
@@ -29,7 +29,7 @@
         
         
     <summary type="html">&lt;p&gt;在js中，无论是数组，字符串，还是对象，我们都需要对其进行操作，而这，便必不可少的需要用到相对应的api，也是我们平常做题乃至面试会遇到的。&lt;/p&gt;
-&lt;h3 id=&quot;字符串篇&quot;&gt;&lt;a href=&quot;#字符串篇&quot; class=&quot;headerlink&quot;</summary>
+&lt;h1 id=&quot;字符串篇&quot;&gt;&lt;a href=&quot;#字符串篇&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -38,7 +38,7 @@
     <category term="面经" scheme="http://example.com/categories/%E9%9D%A2%E7%BB%8F/"/>
     
     
-    <category term="js" scheme="http://example.com/tags/js/"/>
+    <category term="js中的api" scheme="http://example.com/tags/js%E4%B8%AD%E7%9A%84api/"/>
     
   </entry>
   
