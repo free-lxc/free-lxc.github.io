@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-24T08:24:37.646Z</updated>
+  <updated>2023-07-07T15:54:53.297Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>js中的api</title>
+    <link href="http://example.com/2023/07/07/js%E4%B8%AD%E7%9A%84api/"/>
+    <id>http://example.com/2023/07/07/js%E4%B8%AD%E7%9A%84api/</id>
+    <published>2023-07-07T15:26:42.000Z</published>
+    <updated>2023-07-07T15:54:53.297Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在js中，无论是数组，字符串，还是对象，我们都需要对其进行操作，而这，便必不可少的需要用到相对应的api，也是我们平常做题乃至面试会遇到的。&lt;/p&gt;
+&lt;h3 id=&quot;字符串篇&quot;&gt;&lt;a href=&quot;#字符串篇&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="面经" scheme="http://example.com/categories/%E9%9D%A2%E7%BB%8F/"/>
+    
+    
+    <category term="js" scheme="http://example.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
     <title>为工作全力以赴</title>
     <link href="http://example.com/2023/06/20/%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4/"/>
     <id>http://example.com/2023/06/20/%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4/</id>
     <published>2023-06-20T15:33:45.000Z</published>
-    <updated>2023-06-24T08:24:37.646Z</updated>
+    <updated>2023-06-24T13:45:11.809Z</updated>
     
     
       
@@ -38,7 +64,7 @@
     <category term="实习前传" scheme="http://example.com/categories/%E5%AE%9E%E4%B9%A0%E5%89%8D%E4%BC%A0/"/>
     
     
-    <category term="奋斗" scheme="http://example.com/tags/%E5%A5%8B%E6%96%97/"/>
+    <category term="随记" scheme="http://example.com/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
